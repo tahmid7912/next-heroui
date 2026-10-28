@@ -1,0 +1,74 @@
+[
+  {
+    "id": 1,
+    "title": "Learn JavaScript Basics",
+    "description": "Practice variables, functions, arrays, and objects.",
+    "status": "completed",
+    "priority": "high",
+    "category": "Learning",
+    "dueDate": "2026-10-20"
+  },
+  {
+    "id": 2,
+    "title": "Build a Todo App",
+    "description": "Create a todo application using React and Next.js.",
+    "status": "in-progress",
+    "priority": "high",
+    "category": "Development",
+    "dueDate": "2026-10-28"
+  },
+  {
+    "id": 3,
+    "title": "Practice Tailwind CSS",
+    "description": "Learn responsive design, flexbox, and grid layouts.",
+    "status": "pending",
+    "priority": "medium",
+    "category": "Learning",
+    "dueDate": "2026-10-30"
+  },
+  {
+    "id": 4,
+    "title": "Fix API Fetch Error",
+    "description": "Debug the API request and handle loading and error states.",
+    "status": "in-progress",
+    "priority": "high",
+    "category": "Development",
+    "dueDate": "2026-10-27"
+  },
+  {
+    "id": 5,
+    "title": "Update GitHub Repository",
+    "description": "Push the latest project changes to GitHub.",
+    "status": "completed",
+    "priority": "medium",
+    "category": "Development",
+    "dueDate": "2026-10-25"
+  },
+  {
+    "id": 6,
+    "title": "Prepare for Class Test",
+    "description": "Review lecture notes and practice important questions.",
+    "status": "pending",
+    "priority": "high",
+    "category": "Study",
+    "dueDate": "2026-10-29"
+  },
+  {
+    "id": 7,
+    "title": "Read a Programming Book",
+    "description": "Read one chapter about clean code and programming practices.",
+    "status": "pending",
+    "priority": "low",
+    "category": "Learning",
+    "dueDate": "2026-11-02"
+  },
+  {
+    "id": 8,
+    "title": "Exercise for 30 Minutes",
+    "description": "Complete a home workout and stretch afterward.",
+    "status": "pending",
+    "priority": "medium",
+    "category": "Personal",
+    "dueDate": "2026-10-26"
+  }
+]
